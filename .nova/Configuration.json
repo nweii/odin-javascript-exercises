@@ -1,11 +1,12 @@
 {
   "eablokker.tabsSidebar.config.customKindGroupsOrder" : [
     "markdown",
-    "javascript"
+    "json",
+    "plaintext"
   ],
   "eablokker.tabsSidebar.config.customTabOrder" : [
     "\/Users\/nathancheng\/Local-Docs\/Odin-Project\/odin-javascript-exercises\/01_helloWorld\/README.md",
-    "\/Users\/nathancheng\/Local-Docs\/Odin-Project\/odin-javascript-exercises\/01_helloWorld\/helloWorld.js",
-    "\/Users\/nathancheng\/Local-Docs\/Odin-Project\/odin-javascript-exercises\/01_helloWorld\/helloWorld.spec.js"
+    "\/Users\/nathancheng\/Local-Docs\/Odin-Project\/odin-javascript-exercises\/.nova\/Configuration.json",
+    "\/Users\/nathancheng\/Local-Docs\/Odin-Project\/odin-javascript-exercises\/.gitignore"
   ]
 }
