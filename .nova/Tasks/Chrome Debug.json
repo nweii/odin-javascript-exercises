@@ -1,0 +1,10 @@
+{
+  "extension" : {
+    "identifier" : "panic.JavaScript",
+    "name" : "JavaScript"
+  },
+  "extensionTemplate" : "chromeDebug",
+  "extensionValues" : {
+    "request" : "launch"
+  }
+}
